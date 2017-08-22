@@ -1,0 +1,1 @@
+Este arquivo será adicionado ao branch teste e depois será incluido no master.
