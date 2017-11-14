@@ -20,5 +20,5 @@ Preencha (edite) o conteúdo da tabela abaixo conforme as seguintes orientaçõe
 | 12  | 0 |   |   |
 | 13  | 1 | https://github.com/murilosotelo/ls2017/wiki/sonarcloud |   |
 | 14  | 1 | https://github.com/murilosotelo/ls2017/wiki/softvis3d |   |
-| 15  | 1 |   |   |
-| 16  | 0 |   |   |
+| 15  | 1 | https://github.com/murilosotelo/ls2017/blob/master/README.md |   |
+| 16  | 0 |   | aula não realizada ainda  |
